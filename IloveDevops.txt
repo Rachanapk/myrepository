@@ -1,2 +1,3 @@
 Learning git commands
+git branch helps dulicate the code and merge into master branch so that we can keep the code clean
 
